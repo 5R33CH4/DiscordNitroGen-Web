@@ -1,9 +1,7 @@
 # DiscordNitroGen-Web
 Discord Nitro Generator based on Web
-
 <br>
 <br>
-
 This repo is Protected by MIT License
 <br>
 This Repo is the Source Code of https://5r33ch4.github.io/DiscordNitroGen-Web/
